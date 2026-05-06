@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MT99-JS/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MT99-JS/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MT99-JS/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/MT99-JS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MT99-JS/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/MT99-JS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MT99-JS/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/MT99-JS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -48,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MT99-JS/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/MT99-JS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
