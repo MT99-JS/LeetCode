@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/MT99-JS/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MT99-JS/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -15,4 +16,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MT99-JS/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/MT99-JS/LeetCode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
