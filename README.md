@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MT99-JS/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MT99-JS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MT99-JS/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0283-move-zeroes](https://github.com/MT99-JS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +47,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MT99-JS/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/MT99-JS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
