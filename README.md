@@ -52,10 +52,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MT99-JS/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/MT99-JS/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/MT99-JS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/MT99-JS/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
