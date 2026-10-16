@@ -5,19 +5,18 @@ class Solution {
             return false;
         }
 
-        HashMap <Character,Integer> map = new HashMap();
+        int[] freq = new int[26];
 
-    for(char c : s.toCharArray()){
-        map.put(c,map.getOrDefault(c,0)+1);
-    }
-
-    for(char c: t.toCharArray()){
-        if(!map.containsKey(c) || map.get(c) == 0){
-            return false;
+        for(int i=0;i<s.length();i++){
+            freq[s.charAt(i) - 'a']++;
+            freq[t.charAt(i) - 'a']--;
         }
-        map.put(c,map.getOrDefault(c,0)-1);
-    }
-    return true;
+
+        for(int count : freq){
+            if(count !=0) return false;
+        }
+
+        return true;
         
     }
 }
