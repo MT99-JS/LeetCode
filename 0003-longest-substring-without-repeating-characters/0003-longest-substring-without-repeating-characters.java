@@ -6,7 +6,7 @@ class Solution {
 
         HashSet<Character> set = new HashSet<>();
 
-        for(int right=0;right<=s.length()-1;right++){
+        for(int right=0;right<s.length();right++){
             while(set.contains(s.charAt(right))){
                 set.remove(s.charAt(left));
                 left++;
