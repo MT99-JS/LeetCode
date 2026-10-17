@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MT99-JS/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MT99-JS/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/MT99-JS/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MT99-JS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/MT99-JS/LeetCode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0283-move-zeroes](https://github.com/MT99-JS/LeetCode/tree/main/0283-move-zeroes/) | Easy |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/MT99-JS/LeetCode/tree/main/0179-largest-number/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/MT99-JS/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/MT99-JS/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/MT99-JS/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sliding Window
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/MT99-JS/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/MT99-JS/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MT99-JS/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MT99-JS/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MT99-JS/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
